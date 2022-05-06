@@ -1,0 +1,5 @@
+#the numbers between 1 and 1000 :
+for i in range(1 ,1001) :
+# Cheching if the numbers are odd 
+	if(i%2!=0) :
+		print(i)
